@@ -5,7 +5,7 @@ It allows to create, read, update and delete cards.
 
 ## Compile and build artifact
     Maven : mvn clean package
-    URL    : http://localhost:8080/cards
+    URL    : http://localhost:8080/api/cards
 
 ### Test locally
 To test this locally follow these steps:
